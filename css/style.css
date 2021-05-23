@@ -2,12 +2,17 @@
 /* Reset code styling */
 
 /* This means every element in your index.html should have the styling */
-/* *{
+
+body{
+    background-color: yellow;
+}
+
+*{
     font-family: 'bai Jamguree', sans-serif;
     text-decoration: none;
-} */
+}
 
-/* h1,
+h1,
 h2,
 h3,
 h4,
@@ -30,25 +35,25 @@ i{
 
 button{
     box-shadow: 1px 5px 10px grey;
-} */
+} 
 
 /* Header Styling Section */
-/* .jumbotron{
+.jumbotron{
     background-image: url(../img/download\ 2.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
     object-fit: contain;
-} */
+}
 
 /* Customise container */
-/* .cc-container{
+.cc-container{
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
-} */
+}
 
 /* On Section Three */
-/* .cc-flex{
+.cc-flex{
     flex: 1;
-} */
+}
